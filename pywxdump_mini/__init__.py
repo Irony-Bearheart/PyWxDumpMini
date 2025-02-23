@@ -5,5 +5,5 @@
 # Author:       xaoyaoo
 # Date:         2023/10/14
 # -------------------------------------------------------------------------------
-from .simplify_wx_info import read_info
+from .simplify_wx_info import read_db_dir_and_key
 
